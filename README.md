@@ -214,11 +214,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 Co-Founder – Unicodrex | Technical Associate – Skill Sprint
 
-**[Rana Ali Husnain](https://github.com/AliHusnain05)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-AliHusnain05-black?logo=github)](https://github.com/AliHusnain05)
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
 
