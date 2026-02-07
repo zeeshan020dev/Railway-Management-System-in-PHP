@@ -209,7 +209,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 Co-Founder – Unicodrex | Technical Associate – Skill Sprint
