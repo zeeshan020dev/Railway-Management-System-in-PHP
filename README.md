@@ -224,6 +224,5 @@ Co-Founder – Unicodrex | Technical Lead – Skill Sprint
 
 
 <div align="center">
-<p>If you found this project helpful, please give it a ⭐!</p>
 <p>Built with ❤️ for Academic Project</p>
 </div>
