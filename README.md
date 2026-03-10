@@ -213,7 +213,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 
-Co-Founder – Unicodrex | Technical Lead – Skill Sprint
+Co-Founder – Unicodrex | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
