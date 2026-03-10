@@ -212,6 +212,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Authors
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+
 Co-Founder – Unicodrex | Technical Lead – Skill Sprint
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
